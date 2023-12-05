@@ -1,3 +1,4 @@
 Editing Windows Credential Manager => Remove blueskywork253 github credentials.
 Delpoy nextjs-privatelib-v2 to Vercel.
 Memperbarui fitur dark mode pada nextjs-privatelib-v2
+Failed to import 'fs/promises' in MainPic.jsx, problem occured due to trying to access node functions inside of a component that is meant to be rendered in a browser.
